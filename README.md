@@ -1,1 +1,1 @@
-# Vector Clock and Eventtual Consistency 
+# Vector Clock and Eventual Consistency 
